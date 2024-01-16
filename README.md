@@ -1,4 +1,4 @@
-# RiddlesGame
+# Riddles Game
 
 INSTRUCTIONS
 --------------------------------
