@@ -16,5 +16,3 @@ Please read the following instructions carefully to enjoy the game:
     For example: If the answer is 1, type: one.
 5. Write the answer to your riddle.
 6. Press ENTER to proceed to the next question after writing your answer.
-
--------------------------------
